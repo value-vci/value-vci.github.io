@@ -65,3 +65,9 @@
     font-weight: normal;
 
   }
+  .message{
+    margin-top: 20px;
+    color: rgb(208,178,161);
+    font-size: 11px;
+    line-height: 18px;
+  }
