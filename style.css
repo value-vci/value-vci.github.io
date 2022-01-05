@@ -6,7 +6,9 @@
   }
   body {
     font-family: 'Noto Sans TC', sans-serif;
-    background: rgb(40, 24, 98);
+    /* background: rgb(40, 24, 98); */
+    background-image: url(./bg.png);
+    background-repeat:no-repeat;
     letter-spacing: 0.1em;
   }
   .container {
