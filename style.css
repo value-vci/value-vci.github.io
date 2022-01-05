@@ -12,7 +12,7 @@
   .container {
     width: 80%;
     margin: 0 auto;
-    margin-top: 60px;
+    margin-top: 50px;
     text-align:start;
   }
   .title{
@@ -55,7 +55,7 @@
   }
   .line_icon{
     width: 220px;
-    margin-top: 40px;
+    margin-top: 30px;
   }
   .content{
     text-align: start;
